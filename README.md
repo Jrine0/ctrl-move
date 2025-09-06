@@ -1,3 +1,3 @@
 # Altruist
 
-Testing
+Get rewards for open source contributions
