@@ -4,7 +4,7 @@ import { Button } from './ui/button';
 
 const Header = () => {
     return (
-        <header className='flex justify-between items-center'>
+        <header className='flex justify-between items-center px-25'>
             <div>Altruist</div>
             <SignedOut>
                 <SignInButton>
@@ -12,7 +12,7 @@ const Header = () => {
                 </SignInButton>
             </SignedOut>
             <SignedIn>
-                <UserButton />
+                <UserButton appearance={{ elements: { avatarBox: "w-8 h-8" } }} />
             </SignedIn>
         </header>
     )
