@@ -1,3 +1,3 @@
 # Altruist
 
-Get rewards for open source contributions
+### Get rewards for open source contributions
