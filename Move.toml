@@ -1,0 +1,12 @@
+[package]
+name = "MessageBoard"
+version = "1.0.0"
+authors = []
+
+[addresses]
+message_board_addr = "0xf963629109caecd887522d89855d7c089971c4ea9d1de6c0e24b30eb7961ea99"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
+
+[dev-dependencies]
