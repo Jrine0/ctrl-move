@@ -125,3 +125,4 @@ Join the revolution in open-source contribution!
 ---
 
 *trust⚡* — merge the PR, get paid instantly, build your reputation.
+--
