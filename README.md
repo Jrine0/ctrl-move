@@ -22,21 +22,21 @@
 
 ### 1. Clone the repository
 bash
-git clone https://github.com/yourusername/trust.git
+git clone https://github.com/Jrine0/ctrl-move.git
 
 
 ### 2. Frontend Setup (branch jitin)
-bash
-cd trust/jitin
-npm install
-npm run dev
+bash  
+cd trust/jitin  
+npm install  
+npm run dev  
 
 
 ### 3. Backend Setup (branch main)
-bash
-cd trust/main
-npm install
-npm start
+bash  
+cd trust/main  
+npm install  
+npm start  
 
 
 ### 4. Deploy Move Smart Contracts (branch ujesh)
@@ -95,10 +95,10 @@ This process guarantees instant, trustless payments for accepted contributions.
 
 ## 📂 Directory / Branch Guide
 
-bash
-main/    # Backend & GitHub webhooks
-jitin/   # Frontend: React / Next.js
-ujesh/   # Aptos Move smart contracts
+bash  
+main/    # Backend & GitHub webhooks  
+jitin/   # Frontend: React / Next.js  
+ujesh/   # Aptos Move smart contracts  
 
 
 ---
@@ -116,9 +116,9 @@ ujesh/   # Aptos Move smart contracts
 
 Contribute, suggest features, or report issues:
 
-- *GitHub Issues:* https://github.com/yourusername/trust/issues
-- *Pull Requests:* https://github.com/yourusername/trust/pulls
-- *Discussions:* https://github.com/yourusername/trust/discussions
+- *GitHub Issues:* https://github.com/Jrine0/ctrl-move/trust/issues
+- *Pull Requests:* https://github.com/Jrine0/ctrl-move/trust/pulls
+- *Discussions:* https://github.com/Jrine0/ctrl-move/discussions
 
 Join the revolution in open-source contribution!
 
